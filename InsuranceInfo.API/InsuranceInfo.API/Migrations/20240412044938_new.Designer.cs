@@ -3,6 +3,7 @@ using System;
 using InsuranceInfo.API.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace InsuranceInfo.API.Migrations
 {
     [DbContext(typeof(ApplicantInfoContext))]
-    partial class ApplicantInfoContextModelSnapshot : ModelSnapshot
+    [Migration("20240412044938_new")]
+    partial class @new
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.3");
@@ -33,12 +36,12 @@ namespace InsuranceInfo.API.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<bool>("IsTobaccoUser")
+                        .HasColumnType("INTEGER");
+
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasColumnType("TEXT");
-
-                    b.Property<int>("ifTobaccoUser")
-                        .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
@@ -49,37 +52,37 @@ namespace InsuranceInfo.API.Migrations
                         {
                             Id = 1,
                             AnnualIncome = 1000m,
-                            DateOfBirth = new DateTime(2024, 4, 12, 10, 47, 28, 757, DateTimeKind.Local).AddTicks(2650),
+                            DateOfBirth = new DateTime(2024, 4, 12, 10, 19, 36, 20, DateTimeKind.Local).AddTicks(5118),
                             FirstName = "Shweta",
-                            LastName = "Kumari",
-                            ifTobaccoUser = 0
+                            IsTobaccoUser = true,
+                            LastName = "Kumari"
                         },
                         new
                         {
                             Id = 2,
                             AnnualIncome = 3000m,
-                            DateOfBirth = new DateTime(2024, 4, 12, 10, 47, 28, 757, DateTimeKind.Local).AddTicks(2690),
+                            DateOfBirth = new DateTime(2024, 4, 12, 10, 19, 36, 20, DateTimeKind.Local).AddTicks(5150),
                             FirstName = "Kunal",
-                            LastName = "Kumar",
-                            ifTobaccoUser = 1
+                            IsTobaccoUser = false,
+                            LastName = "Kumar"
                         },
                         new
                         {
                             Id = 3,
                             AnnualIncome = 4000m,
-                            DateOfBirth = new DateTime(2024, 4, 12, 10, 47, 28, 757, DateTimeKind.Local).AddTicks(2697),
+                            DateOfBirth = new DateTime(2024, 4, 12, 10, 19, 36, 20, DateTimeKind.Local).AddTicks(5156),
                             FirstName = "Shivani",
-                            LastName = "Kumari",
-                            ifTobaccoUser = 0
+                            IsTobaccoUser = false,
+                            LastName = "Kumari"
                         },
                         new
                         {
                             Id = 4,
                             AnnualIncome = 4000m,
-                            DateOfBirth = new DateTime(2024, 4, 12, 10, 47, 28, 757, DateTimeKind.Local).AddTicks(2701),
+                            DateOfBirth = new DateTime(2024, 4, 12, 10, 19, 36, 20, DateTimeKind.Local).AddTicks(5161),
                             FirstName = "Shivani",
-                            LastName = "Kumari",
-                            ifTobaccoUser = 1
+                            IsTobaccoUser = false,
+                            LastName = "Kumari"
                         });
                 });
 #pragma warning restore 612, 618

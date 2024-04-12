@@ -23,7 +23,7 @@ namespace InsuranceInfo.API.DbContexts
                      LastName = "Kumari",
                      DateOfBirth = DateTime.Now,
                      AnnualIncome = 1000,
-                     IsTobaccoUser = true
+                     ifTobaccoUser = 0
                  },
                  new Applicant()
                  {
@@ -32,7 +32,7 @@ namespace InsuranceInfo.API.DbContexts
                      LastName = "Kumar",
                      DateOfBirth = DateTime.Now,
                      AnnualIncome = 3000,
-                     IsTobaccoUser = false
+                     ifTobaccoUser = 1
                  },
                   new Applicant()
                   {
@@ -41,7 +41,7 @@ namespace InsuranceInfo.API.DbContexts
                       LastName = "Kumari",
                       DateOfBirth = DateTime.Now,
                       AnnualIncome = 4000,
-                      IsTobaccoUser = false
+                      ifTobaccoUser = 0
                   },
                   new Applicant()
                   {
@@ -50,7 +50,7 @@ namespace InsuranceInfo.API.DbContexts
                       LastName = "Kumari",
                       DateOfBirth = DateTime.Now,
                       AnnualIncome = 4000,
-                      IsTobaccoUser = false
+                      ifTobaccoUser = 1
                   }
 
                 ) ;

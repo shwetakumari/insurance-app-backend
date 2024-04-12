@@ -69,9 +69,8 @@ namespace InsuranceInfo.API.Controllers
                 var applicant = _dbContext.Applicant.ToList().FirstOrDefault(a =>
                 a.FirstName.ToLower() == firstName.ToLower() &&
                 a.LastName.ToLower() == lastName.ToLower() &&
-                a.DateOfBirth.Date == dateOfBirth.Date &&
-                a.AnnualIncome == annualIncome && a.IsTobaccoUser == isTobaccoUser);
-
+                a.DateOfBirth.Date == dateOfBirth.Date); 
+               
                 if (applicant == null)
                 {
                     return NotFound(new { message = "Applicant not found." });

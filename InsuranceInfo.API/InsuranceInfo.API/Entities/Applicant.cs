@@ -18,6 +18,6 @@ namespace InsuranceInfo.API.Entities
         [Required]
         public decimal AnnualIncome { get; set; }
         [Required]
-        public bool IsTobaccoUser { get; set; }
+        public int ifTobaccoUser { get; set; }
     }
 }

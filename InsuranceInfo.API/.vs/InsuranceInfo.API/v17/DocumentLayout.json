@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Assignment\\InsuranceInfo.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\migrations\\20240412051730_latest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\migrations\\20240412051730_latest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\dbcontext\\applicantinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +15,16 @@
       "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\insuranceinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\insuranceinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\migrations\\20240409083332_seedv2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\migrations\\20240409083332_seedv2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\migrations\\20240412050741_hvgd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\migrations\\20240412050741_hvgd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\migrations\\20240408121703_initialmigrationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\migrations\\20240408121703_initialmigrationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\insuranceinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\insuranceinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|c:\\assignment\\insuranceinfo.api\\insuranceinfo.api\\migrations\\20240412044938_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F10E30-65C4-487A-B262-FCF83F679B7A}|InsuranceInfo.API\\InsuranceInfo.API.csproj|solutionrelative:insuranceinfo.api\\migrations\\20240412044938_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1529610948:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -55,14 +55,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicantController.cs",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Controllers\\ApplicantController.cs",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Controllers\\ApplicantController.cs",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Controllers\\ApplicantController.cs",
-              "RelativeToolTip": "InsuranceInfo.API\\Controllers\\ApplicantController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEUAAAAUAAAA",
+              "Title": "20240412051730_latest.cs",
+              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412051730_latest.cs",
+              "RelativeDocumentMoniker": "InsuranceInfo.API\\Migrations\\20240412051730_latest.cs",
+              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412051730_latest.cs",
+              "RelativeToolTip": "InsuranceInfo.API\\Migrations\\20240412051730_latest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:14:03.569Z",
+              "WhenOpened": "2024-04-12T05:17:31.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Entities\\Applicant.cs",
+              "RelativeDocumentMoniker": "InsuranceInfo.API\\Entities\\Applicant.cs",
+              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Entities\\Applicant.cs",
+              "RelativeToolTip": "InsuranceInfo.API\\Entities\\Applicant.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:41:06.72Z",
               "EditorCaption": ""
             },
             {
@@ -73,92 +94,49 @@
               "RelativeDocumentMoniker": "InsuranceInfo.API\\DbContext\\ApplicantInfoContext.cs",
               "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\DbContext\\ApplicantInfoContext.cs",
               "RelativeToolTip": "InsuranceInfo.API\\DbContext\\ApplicantInfoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAtwDAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:31:41.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Applicant.cs",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Entities\\Applicant.cs",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Entities\\Applicant.cs",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Entities\\Applicant.cs",
-              "RelativeToolTip": "InsuranceInfo.API\\Entities\\Applicant.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:03:55.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240408121703_initialmigrationdb.cs",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240408121703_initialmigrationdb.cs",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Migrations\\20240408121703_initialmigrationdb.cs",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240408121703_initialmigrationdb.cs",
-              "RelativeToolTip": "InsuranceInfo.API\\Migrations\\20240408121703_initialmigrationdb.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:06:31.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Program.cs",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Program.cs",
-              "RelativeToolTip": "InsuranceInfo.API\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwBsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:02:58.071Z"
+              "WhenOpened": "2024-04-12T04:42:29.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InsuranceInfo.API.csproj",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "RelativeToolTip": "InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T10:54:51.729Z"
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "InsuranceInfo.API\\Controllers\\ApplicantController.cs",
+              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "InsuranceInfo.API\\Controllers\\ApplicantController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwEgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:36:33.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240409083332_seedv2.0.cs",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240409083332_seedv2.0.cs",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Migrations\\20240409083332_seedv2.0.cs",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240409083332_seedv2.0.cs",
-              "RelativeToolTip": "InsuranceInfo.API\\Migrations\\20240409083332_seedv2.0.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAkAAAAFAAAA",
+              "Title": "20240412050741_hvgd.cs",
+              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412050741_hvgd.cs",
+              "RelativeDocumentMoniker": "InsuranceInfo.API\\Migrations\\20240412050741_hvgd.cs",
+              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412050741_hvgd.cs",
+              "RelativeToolTip": "InsuranceInfo.API\\Migrations\\20240412050741_hvgd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:33:33.906Z"
+              "WhenOpened": "2024-04-12T05:07:42.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InsuranceInfo.API",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "RelativeToolTip": "InsuranceInfo.API\\InsuranceInfo.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T10:58:09.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "InsuranceInfo.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "InsuranceInfo.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T10:57:08.337Z"
+              "DocumentIndex": 5,
+              "Title": "20240412044938_new.cs",
+              "DocumentMoniker": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412044938_new.cs",
+              "RelativeDocumentMoniker": "InsuranceInfo.API\\Migrations\\20240412044938_new.cs",
+              "ToolTip": "C:\\Assignment\\InsuranceInfo.API\\InsuranceInfo.API\\Migrations\\20240412044938_new.cs",
+              "RelativeToolTip": "InsuranceInfo.API\\Migrations\\20240412044938_new.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:49:42.344Z",
+              "EditorCaption": ""
             }
           ]
         }
